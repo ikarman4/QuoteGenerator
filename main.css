@@ -43,6 +43,8 @@ h1 {
   text-align: center;
   margin-top: 1vw;
   margin-bottom: 5vw;
+  height: 400px;
+  width:900px;
   overflow-y: scroll;
 
 }
