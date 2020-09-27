@@ -56,7 +56,7 @@ var quotes = [
   '"You begin saving the world by saving one person at a time; all else is grandiose romanticism or politics." <br> - Charles Bukowski',
   '"Find what you love and let it kill you." <br> - Charles Bukowski',
   '"I wanted the whole world or nothing." <br> - Charles Bukowski',
-  'Understand me. Im not life and ordinary world. I have my madness, I live in another dimension and I do not have time for things that have no soul." <br> - Charles Bukowski',
+  '"Understand me. Im not life and ordinary world. I have my madness, I live in another dimension and I do not have time for things that have no soul." <br> - Charles Bukowski',
   '"She had wild eyes, slightly insane. She also carried an overload of compassion that was real enough and which had obviously cost her something." <br> - Charles Bukowski',
   '"I remember awakening one morning and finding everything smeared with the color of forgotten love." <br> - Charles Bukowski',
   '"Alas, said the other, love is its name: love, consoler of humankind, preserver of the universe, soul of all sentient beings, sweet love" <br> "Alas, said candide, I too have known this thing called love, this ruler of hearts, this soul of our soul..." <br> - Voltaire',
