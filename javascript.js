@@ -1,4 +1,4 @@
-var quotes = [ 
+var quotes = [
   '"To live in this world, you must be able to do three things: <br> to love what is mortal, <br> to hold it against your bones knowing your own life depends on it, <br> and when the time comes to let it go, <br> to let it go." <br> - Mary Oliver"',
   '"I exist. In thousands of agonies - I exist. I am tormented on the rack - but i exist! Though I sit alone in a pillar - I exist! I see the son, and if I dont see the sun, I know its there. And theres a whole life in that, in knowing the sun is there" <br> - Fyodor Dostoevsky',
   '"The woods are lovely, dark and deep. <br> But I have promises to keep, <br> and miles to go before I sleep <br> and miles to go before I sleep" <br> - Robert Frost',
