@@ -1,7 +1,6 @@
-var quotes = [
+var quotes = [ 
   '"To live in this world, you must be able to do three things: <br> to love what is mortal, <br> to hold it against your bones knowing your own life depends on it, <br> and when the time comes to let it go, <br> to let it go." <br> - Mary Oliver"',
   '"I exist. In thousands of agonies - I exist. I am tormented on the rack - but i exist! Though I sit alone in a pillar - I exist! I see the son, and if I dont see the sun, I know its there. And theres a whole life in that, in knowing the sun is there" <br> - Fyodor Dostoevsky',
-  '"To live content with small means - to seek elegance rather than luxury, and refinement rather than fashion, to be worthy, not respectable, and wealthy, not rich - to study hard, think quietly, talk gently, act frankly, to listen to stars and birds, babes and sages, with open heart - to hear all cheerfully - do all bravely, await occasions - never hurry; <br> in a word, to let the spiritual unbidden and unconscious, grow up through the common. This is to be my symphony" <br> - William Ellery Channing',
   '"The woods are lovely, dark and deep. <br> But I have promises to keep, <br> and miles to go before I sleep <br> and miles to go before I sleep" <br> - Robert Frost',
   '"To Love at all is to be vulnerable." <br> - C.S. Lewis',
   '"Those who control their passions do so because their passions are weak enough to be controlled." <br> - William Blake',
@@ -39,7 +38,6 @@ var quotes = [
   '"It is not for me to judge another mans life. I must judge, I must choose, I must spurn, purely for myself for myself, alone." <br> - Hermann Hesse',
   '"Perhaps... you are seeking all too much? That all your seeking is making you unable to find?" <br> - Hermann Hesse',
   '"Everything is more beautiful because we are doomed. You will never be lovelier than you are now. We will never be here again." <br> - Homer',
-  '"I love no one but you, I have discovered, but you are far away and I am here alone. Then this is my life and maybe, however unlikely, Ill find my way back there. Or maybe, one day, Ill settle for second best. And on that same day, hell will freeze over, the sun will burn out, and the stars will fall from the sky." <br> - Lemony Snicket',
   '"But the law of loving other could not be discovered by reason, because it is unreasonable." <br> - Leo Tolstoy',
   '"Seize the moments of happines, love and be loved! That is the only reality in the world, all else is folly. It is the one thing we are interested in here." <br> - Leo Tolstoy',
   ':Why sometimes Ive believed as many as six impossible things before breakfast." <br> - Lewis Carroll',
